@@ -1,0 +1,10 @@
+0		MAE，RMSE超过
+107		全不行，要重做
+348		NMI，MAE，RMSE超过
+414		NMI超过
+686		全部超过
+698		f1，f2超过
+1684	全部超过
+1912	NMI，MAE，RMSE超过
+3437	NMI超过
+3980	MAE，RMSE超过

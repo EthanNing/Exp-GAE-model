@@ -1,0 +1,826 @@
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\python.exe "D:/PycharmProjects/Overlapping Community Detection with Graph Neural Networks/3_grid_search_main.py"
+Current alpha:  0.4
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.4959
+Epoch   25, loss.full = 0.5136
+Epoch   50, loss.full = 0.4277
+Epoch   75, loss.full = 0.4076
+Epoch  100, loss.full = 0.3968
+Epoch  125, loss.full = 0.3828
+Epoch  150, loss.full = 0.3760
+Epoch  175, loss.full = 0.3699
+Epoch  200, loss.full = 0.3673
+Epoch  225, loss.full = 0.3654
+Epoch  250, loss.full = 0.3635
+Epoch  275, loss.full = 0.3620
+Epoch  300, loss.full = 0.3616
+Epoch  325, loss.full = 0.3606
+Epoch  350, loss.full = 0.3604
+Epoch  375, loss.full = 0.3578
+Epoch  400, loss.full = 0.3571
+Epoch  425, loss.full = 0.3568
+Epoch  450, loss.full = 0.3568
+Epoch  475, loss.full = 0.3555
+Epoch  500, loss.full = 0.3552
+------------------------------
+Current threshold: 0.1
+nmi = -0.00000
+F-1 Score = 0.08596
+F-2 Score = 0.13838
+------------------------------
+Current threshold: 0.2
+nmi = -0.00000
+F-1 Score = 0.08605
+F-2 Score = 0.13209
+------------------------------
+Current threshold: 0.3
+nmi = 0.00000
+F-1 Score = 0.08461
+F-2 Score = 0.12658
+------------------------------
+Current threshold: 0.4
+nmi = -0.00000
+F-1 Score = 0.08522
+F-2 Score = 0.12407
+------------------------------
+Current threshold: 0.5
+nmi = -0.00000
+F-1 Score = 0.08559
+F-2 Score = 0.12076
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.08569
+F-2 Score = 0.11730
+------------------------------
+Current threshold: 0.7
+nmi = 0.00000
+F-1 Score = 0.08250
+F-2 Score = 0.10983
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08141
+F-2 Score = 0.10312
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.07799
+F-2 Score = 0.09533
+------------------------------
+average nmi:  -1.0267610533820485e-16
+average F-1 score:  0.08389216662786637
+average F-2 score:  0.11860755920078077
+------------------------------
+maximum nmi:  0.0
+maximum F-1 score:  0.08605447764642299
+maximum F-2 score:  0.13838498035663077
+------------------------------
+MAE: 0.07831123881696932
+RMSE: 0.279841452999675 
+
+D:/PycharmProjects/Overlapping Community Detection with Graph Neural Networks/3_grid_search_main.py:46: UserWarning: Attempting to set identical bottom == top == 0.0 results in singular transformations; automatically expanding.
+  np.max(train_labels) + 0.2 * distance])
+Current alpha:  0.66
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.5479
+Epoch   25, loss.full = 0.5421
+Epoch   50, loss.full = 0.4593
+Epoch   75, loss.full = 0.4603
+Epoch  100, loss.full = 0.4256
+Epoch  125, loss.full = 0.4110
+Epoch  150, loss.full = 0.3989
+Epoch  175, loss.full = 0.4040
+Epoch  200, loss.full = 0.3914
+Epoch  225, loss.full = 0.3837
+Epoch  250, loss.full = 0.3822
+Epoch  275, loss.full = 0.3815
+Epoch  300, loss.full = 0.3781
+Epoch  325, loss.full = 0.3786
+Epoch  350, loss.full = 0.3743
+Epoch  375, loss.full = 0.3756
+Epoch  400, loss.full = 0.3718
+Epoch  425, loss.full = 0.3690
+Epoch  450, loss.full = 0.3693
+Epoch  475, loss.full = 0.3695
+Epoch  500, loss.full = 0.3665
+------------------------------
+Current threshold: 0.1
+nmi = 0.00424
+F-1 Score = 0.09013
+F-2 Score = 0.15488
+------------------------------
+Current threshold: 0.2
+nmi = 0.00250
+F-1 Score = 0.08999
+F-2 Score = 0.14711
+------------------------------
+Current threshold: 0.3
+nmi = 0.00000
+F-1 Score = 0.09110
+F-2 Score = 0.14128
+------------------------------
+Current threshold: 0.4
+nmi = -0.00000
+F-1 Score = 0.09035
+F-2 Score = 0.13514
+------------------------------
+Current threshold: 0.5
+nmi = -0.00000
+F-1 Score = 0.08913
+F-2 Score = 0.12937
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = 0.08726
+F-2 Score = 0.12139
+------------------------------
+Current threshold: 0.7
+nmi = 0.00000
+F-1 Score = 0.08682
+F-2 Score = 0.11756
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.08426
+F-2 Score = 0.11050
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08246
+F-2 Score = 0.10597
+------------------------------
+average nmi:  0.0007489552340927237
+average F-1 score:  0.08794288252569582
+average F-2 score:  0.12924440433065326
+------------------------------
+maximum nmi:  0.004237674715613407
+maximum F-1 score:  0.09109660159592131
+maximum F-2 score:  0.15487993212744852
+------------------------------
+MAE: 0.07965397834144355
+RMSE: 0.2822303639607963 
+
+Current alpha:  0.92
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.7290
+Epoch   25, loss.full = 0.5205
+Epoch   50, loss.full = 0.4938
+Epoch   75, loss.full = 0.4734
+Epoch  100, loss.full = 0.4506
+Epoch  125, loss.full = 0.4466
+Epoch  150, loss.full = 0.4223
+Epoch  175, loss.full = 0.4183
+Epoch  200, loss.full = 0.4141
+Epoch  225, loss.full = 0.4057
+Epoch  250, loss.full = 0.3993
+Epoch  275, loss.full = 0.3976
+Epoch  300, loss.full = 0.3934
+Epoch  325, loss.full = 0.3899
+Epoch  350, loss.full = 0.3881
+Epoch  375, loss.full = 0.3866
+Epoch  400, loss.full = 0.3875
+Epoch  425, loss.full = 0.3875
+Epoch  450, loss.full = 0.3851
+Epoch  475, loss.full = 0.3861
+Epoch  500, loss.full = 0.3822
+------------------------------
+Current threshold: 0.1
+nmi = 0.00375
+F-1 Score = 0.08897
+F-2 Score = 0.15289
+------------------------------
+Current threshold: 0.2
+nmi = 0.00305
+F-1 Score = 0.09239
+F-2 Score = 0.15164
+------------------------------
+Current threshold: 0.3
+nmi = -0.00000
+F-1 Score = 0.08912
+F-2 Score = 0.14684
+------------------------------
+Current threshold: 0.4
+nmi = -0.00000
+F-1 Score = 0.09056
+F-2 Score = 0.14033
+------------------------------
+Current threshold: 0.5
+nmi = -0.00000
+F-1 Score = 0.08915
+F-2 Score = 0.13514
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.08834
+F-2 Score = 0.12853
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08607
+F-2 Score = 0.12042
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08632
+F-2 Score = 0.11400
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.08395
+F-2 Score = 0.10799
+------------------------------
+average nmi:  0.0007560306213144748
+average F-1 score:  0.08831846119188236
+average F-2 score:  0.1330865866113625
+------------------------------
+maximum nmi:  0.003750242766778403
+maximum F-1 score:  0.09239101618654369
+maximum F-2 score:  0.15288687081743568
+------------------------------
+MAE: 0.08021959966083977
+RMSE: 0.2832306474604042 
+
+Current alpha:  1.1800000000000002
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6325
+Epoch   25, loss.full = 0.5922
+Epoch   50, loss.full = 0.5515
+Epoch   75, loss.full = 0.5026
+Epoch  100, loss.full = 0.4658
+Epoch  125, loss.full = 0.4492
+Epoch  150, loss.full = 0.4391
+Epoch  175, loss.full = 0.4287
+Epoch  200, loss.full = 0.4237
+Epoch  225, loss.full = 0.4214
+Epoch  250, loss.full = 0.4175
+Epoch  275, loss.full = 0.4161
+Epoch  300, loss.full = 0.4135
+Epoch  325, loss.full = 0.4108
+Epoch  350, loss.full = 0.4100
+Epoch  375, loss.full = 0.4086
+Epoch  400, loss.full = 0.4075
+Epoch  425, loss.full = 0.4059
+Epoch  450, loss.full = 0.4030
+Epoch  475, loss.full = 0.4015
+Epoch  500, loss.full = 0.3999
+------------------------------
+Current threshold: 0.1
+nmi = 0.00377
+F-1 Score = 0.09259
+F-2 Score = 0.15400
+------------------------------
+Current threshold: 0.2
+nmi = 0.00472
+F-1 Score = 0.09181
+F-2 Score = 0.15369
+------------------------------
+Current threshold: 0.3
+nmi = 0.00288
+F-1 Score = 0.08588
+F-2 Score = 0.14299
+------------------------------
+Current threshold: 0.4
+nmi = 0.00000
+F-1 Score = 0.08406
+F-2 Score = 0.13413
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = 0.08555
+F-2 Score = 0.13111
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.08544
+F-2 Score = 0.12623
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08378
+F-2 Score = 0.11981
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08215
+F-2 Score = 0.11388
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08100
+F-2 Score = 0.11005
+------------------------------
+average nmi:  0.0012632719050974376
+average F-1 score:  0.08580816774781648
+average F-2 score:  0.1317652871803104
+------------------------------
+maximum nmi:  0.004716776505802615
+maximum F-1 score:  0.09258952099246387
+maximum F-2 score:  0.15399881401910054
+------------------------------
+MAE: 0.0806657624377705
+RMSE: 0.28401718687039085 
+
+Current alpha:  1.44
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6167
+Epoch   25, loss.full = 0.5887
+Epoch   50, loss.full = 0.5368
+Epoch   75, loss.full = 0.5222
+Epoch  100, loss.full = 0.4760
+Epoch  125, loss.full = 0.4827
+Epoch  150, loss.full = 0.4543
+Epoch  175, loss.full = 0.4505
+Epoch  200, loss.full = 0.4347
+Epoch  225, loss.full = 0.4279
+Epoch  250, loss.full = 0.4232
+Epoch  275, loss.full = 0.4203
+Epoch  300, loss.full = 0.4164
+Epoch  325, loss.full = 0.4125
+Epoch  350, loss.full = 0.4099
+Epoch  375, loss.full = 0.4094
+Epoch  400, loss.full = 0.4078
+Epoch  425, loss.full = 0.4031
+Epoch  450, loss.full = 0.4012
+Epoch  475, loss.full = 0.3993
+Epoch  500, loss.full = 0.3955
+------------------------------
+Current threshold: 0.1
+nmi = 0.00449
+F-1 Score = 0.08897
+F-2 Score = 0.15240
+------------------------------
+Current threshold: 0.2
+nmi = 0.00492
+F-1 Score = 0.09371
+F-2 Score = 0.15446
+------------------------------
+Current threshold: 0.3
+nmi = 0.00268
+F-1 Score = 0.09504
+F-2 Score = 0.14701
+------------------------------
+Current threshold: 0.4
+nmi = -0.00000
+F-1 Score = 0.09575
+F-2 Score = 0.14252
+------------------------------
+Current threshold: 0.5
+nmi = -0.00000
+F-1 Score = 0.09243
+F-2 Score = 0.13466
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = 0.08993
+F-2 Score = 0.12444
+------------------------------
+Current threshold: 0.7
+nmi = 0.00000
+F-1 Score = 0.09012
+F-2 Score = 0.12088
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08586
+F-2 Score = 0.11396
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08286
+F-2 Score = 0.10575
+------------------------------
+average nmi:  0.00134303950673133
+average F-1 score:  0.09051725015529892
+average F-2 score:  0.1328947399929098
+------------------------------
+maximum nmi:  0.004922892055566493
+maximum F-1 score:  0.09574820486306798
+maximum F-2 score:  0.15445551211562475
+------------------------------
+MAE: 0.08067320202671407
+RMSE: 0.2840302836436884 
+
+Current alpha:  1.7000000000000002
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.9146
+Epoch   25, loss.full = 0.7359
+Epoch   50, loss.full = 0.7118
+Epoch   75, loss.full = 0.6094
+Epoch  100, loss.full = 0.5305
+Epoch  125, loss.full = 0.5052
+Epoch  150, loss.full = 0.4753
+Epoch  175, loss.full = 0.4611
+Epoch  200, loss.full = 0.4672
+Epoch  225, loss.full = 0.4628
+Epoch  250, loss.full = 0.4530
+Epoch  275, loss.full = 0.4460
+Epoch  300, loss.full = 0.4435
+Epoch  325, loss.full = 0.4392
+Epoch  350, loss.full = 0.4386
+Epoch  375, loss.full = 0.4367
+Epoch  400, loss.full = 0.4343
+Epoch  425, loss.full = 0.4364
+Epoch  450, loss.full = 0.4308
+Epoch  475, loss.full = 0.4316
+Epoch  500, loss.full = 0.4256
+------------------------------
+Current threshold: 0.1
+nmi = 0.00068
+F-1 Score = 0.10348
+F-2 Score = 0.17048
+------------------------------
+Current threshold: 0.2
+nmi = 0.00072
+F-1 Score = 0.10217
+F-2 Score = 0.16643
+------------------------------
+Current threshold: 0.3
+nmi = 0.00125
+F-1 Score = 0.09807
+F-2 Score = 0.16076
+------------------------------
+Current threshold: 0.4
+nmi = 0.00209
+F-1 Score = 0.10258
+F-2 Score = 0.15812
+------------------------------
+Current threshold: 0.5
+nmi = 0.00267
+F-1 Score = 0.09943
+F-2 Score = 0.15039
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.09514
+F-2 Score = 0.13895
+------------------------------
+Current threshold: 0.7
+nmi = 0.00000
+F-1 Score = 0.09170
+F-2 Score = 0.12885
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.09000
+F-2 Score = 0.12174
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08594
+F-2 Score = 0.11370
+------------------------------
+average nmi:  0.0008229063621091542
+average F-1 score:  0.09650200102253911
+average F-2 score:  0.14549065911630688
+------------------------------
+maximum nmi:  0.002668439118646843
+maximum F-1 score:  0.10348010964260976
+maximum F-2 score:  0.17047748564328694
+------------------------------
+MAE: 0.08067851601881663
+RMSE: 0.2840396381120365 
+
+Current alpha:  1.96
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.7151
+Epoch   25, loss.full = 0.7524
+Epoch   50, loss.full = 0.6268
+Epoch   75, loss.full = 0.5445
+Epoch  100, loss.full = 0.5555
+Epoch  125, loss.full = 0.5147
+Epoch  150, loss.full = 0.4962
+Epoch  175, loss.full = 0.4675
+Epoch  200, loss.full = 0.4684
+Epoch  225, loss.full = 0.4554
+Epoch  250, loss.full = 0.4516
+Epoch  275, loss.full = 0.4478
+Epoch  300, loss.full = 0.4455
+Epoch  325, loss.full = 0.4480
+Epoch  350, loss.full = 0.4437
+Epoch  375, loss.full = 0.4387
+Epoch  400, loss.full = 0.4371
+Epoch  425, loss.full = 0.4341
+Epoch  450, loss.full = 0.4330
+Epoch  475, loss.full = 0.4292
+Epoch  500, loss.full = 0.4252
+------------------------------
+Current threshold: 0.1
+nmi = 0.00193
+F-1 Score = 0.10004
+F-2 Score = 0.17017
+------------------------------
+Current threshold: 0.2
+nmi = 0.00151
+F-1 Score = 0.10164
+F-2 Score = 0.16617
+------------------------------
+Current threshold: 0.3
+nmi = 0.00051
+F-1 Score = 0.09400
+F-2 Score = 0.16093
+------------------------------
+Current threshold: 0.4
+nmi = 0.00094
+F-1 Score = 0.09189
+F-2 Score = 0.15333
+------------------------------
+Current threshold: 0.5
+nmi = 0.00050
+F-1 Score = 0.08885
+F-2 Score = 0.14224
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = 0.09020
+F-2 Score = 0.13413
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.09409
+F-2 Score = 0.12825
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.09375
+F-2 Score = 0.11921
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.08424
+F-2 Score = 0.10943
+------------------------------
+average nmi:  0.0005988573907146781
+average F-1 score:  0.09319029296703801
+average F-2 score:  0.14265103621279354
+------------------------------
+maximum nmi:  0.001931310287686005
+maximum F-1 score:  0.10164493141954765
+maximum F-2 score:  0.17016958003645336
+------------------------------
+MAE: 0.08072931778331709
+RMSE: 0.28412905128359733 
+
+Current alpha:  2.22
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6152
+Epoch   25, loss.full = 0.6739
+Epoch   50, loss.full = 0.7109
+Epoch   75, loss.full = 0.6374
+Epoch  100, loss.full = 0.6304
+Epoch  125, loss.full = 0.5280
+Epoch  150, loss.full = 0.5296
+Epoch  175, loss.full = 0.5234
+Epoch  200, loss.full = 0.5086
+Epoch  225, loss.full = 0.4771
+Epoch  250, loss.full = 0.4794
+Epoch  275, loss.full = 0.4704
+Epoch  300, loss.full = 0.4699
+Epoch  325, loss.full = 0.4600
+Epoch  350, loss.full = 0.4635
+Epoch  375, loss.full = 0.4545
+Epoch  400, loss.full = 0.4540
+Epoch  425, loss.full = 0.4548
+Epoch  450, loss.full = 0.4458
+Epoch  475, loss.full = 0.4467
+Epoch  500, loss.full = 0.4497
+------------------------------
+Current threshold: 0.1
+nmi = 0.00314
+F-1 Score = 0.10057
+F-2 Score = 0.16690
+------------------------------
+Current threshold: 0.2
+nmi = 0.00274
+F-1 Score = 0.10214
+F-2 Score = 0.16692
+------------------------------
+Current threshold: 0.3
+nmi = 0.00134
+F-1 Score = 0.09554
+F-2 Score = 0.16213
+------------------------------
+Current threshold: 0.4
+nmi = 0.00144
+F-1 Score = 0.09370
+F-2 Score = 0.15714
+------------------------------
+Current threshold: 0.5
+nmi = 0.00186
+F-1 Score = 0.09309
+F-2 Score = 0.14840
+------------------------------
+Current threshold: 0.6
+nmi = 0.00061
+F-1 Score = 0.09074
+F-2 Score = 0.13927
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.09036
+F-2 Score = 0.13051
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.08894
+F-2 Score = 0.12370
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.08524
+F-2 Score = 0.11052
+------------------------------
+average nmi:  0.0012360291094862137
+average F-1 score:  0.09336859351681516
+average F-2 score:  0.14505410357502277
+------------------------------
+maximum nmi:  0.0031400944630168965
+maximum F-1 score:  0.10214319131898769
+maximum F-2 score:  0.166920273543899
+------------------------------
+MAE: 0.08070189758406789
+RMSE: 0.2840807941133435 
+
+Current alpha:  2.48
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6315
+Epoch   25, loss.full = 0.6898
+Epoch   50, loss.full = 0.6767
+Epoch   75, loss.full = 0.6241
+Epoch  100, loss.full = 0.6235
+Epoch  125, loss.full = 0.5670
+Epoch  150, loss.full = 0.5697
+Epoch  175, loss.full = 0.5339
+Epoch  200, loss.full = 0.5895
+Epoch  225, loss.full = 0.5034
+Epoch  250, loss.full = 0.5231
+Epoch  275, loss.full = 0.5071
+Epoch  300, loss.full = 0.4897
+Epoch  325, loss.full = 0.4870
+Epoch  350, loss.full = 0.4851
+Epoch  375, loss.full = 0.4774
+Epoch  400, loss.full = 0.4820
+Epoch  425, loss.full = 0.4742
+Epoch  450, loss.full = 0.4668
+Epoch  475, loss.full = 0.4675
+Epoch  500, loss.full = 0.4682
+------------------------------
+Current threshold: 0.1
+nmi = 0.00241
+F-1 Score = 0.10027
+F-2 Score = 0.16674
+------------------------------
+Current threshold: 0.2
+nmi = 0.00173
+F-1 Score = 0.09646
+F-2 Score = 0.16529
+------------------------------
+Current threshold: 0.3
+nmi = 0.00198
+F-1 Score = 0.09834
+F-2 Score = 0.16253
+------------------------------
+Current threshold: 0.4
+nmi = 0.00205
+F-1 Score = 0.09025
+F-2 Score = 0.15225
+------------------------------
+Current threshold: 0.5
+nmi = 0.00201
+F-1 Score = 0.09077
+F-2 Score = 0.14683
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.09012
+F-2 Score = 0.13651
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08720
+F-2 Score = 0.12195
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.08446
+F-2 Score = 0.10983
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08181
+F-2 Score = 0.10151
+------------------------------
+average nmi:  0.0011316037468868101
+average F-1 score:  0.0910750759666395
+average F-2 score:  0.14038261375711983
+------------------------------
+maximum nmi:  0.0024072138852965237
+maximum F-1 score:  0.1002730882601218
+maximum F-2 score:  0.16673695927903437
+------------------------------
+MAE: 0.08079244800949546
+RMSE: 0.28424012385568553 
+
+Current alpha:  2.7399999999999998
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6460
+Epoch   25, loss.full = 0.5875
+Epoch   50, loss.full = 0.5929
+Epoch   75, loss.full = 0.5582
+Epoch  100, loss.full = 0.6065
+Epoch  125, loss.full = 0.5753
+Epoch  150, loss.full = 0.5578
+Epoch  175, loss.full = 0.6211
+Epoch  200, loss.full = 0.5877
+Epoch  225, loss.full = 0.5516
+Epoch  250, loss.full = 0.5412
+Epoch  275, loss.full = 0.5166
+Epoch  300, loss.full = 0.5069
+Epoch  325, loss.full = 0.5503
+Epoch  350, loss.full = 0.5026
+Epoch  375, loss.full = 0.5068
+Epoch  400, loss.full = 0.4976
+Epoch  425, loss.full = 0.4962
+Epoch  450, loss.full = 0.4986
+Epoch  475, loss.full = 0.4922
+Epoch  500, loss.full = 0.5280
+------------------------------
+Current threshold: 0.1
+nmi = 0.00117
+F-1 Score = 0.09796
+F-2 Score = 0.17267
+------------------------------
+Current threshold: 0.2
+nmi = 0.00146
+F-1 Score = 0.10202
+F-2 Score = 0.16986
+------------------------------
+Current threshold: 0.3
+nmi = 0.00160
+F-1 Score = 0.10246
+F-2 Score = 0.16432
+------------------------------
+Current threshold: 0.4
+nmi = 0.00247
+F-1 Score = 0.09783
+F-2 Score = 0.15071
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = 0.10016
+F-2 Score = 0.14239
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.09632
+F-2 Score = 0.12906
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08729
+F-2 Score = 0.10854
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.07946
+F-2 Score = 0.09578
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.07478
+F-2 Score = 0.08370
+------------------------------
+average nmi:  0.0007440980873236267
+average F-1 score:  0.09314061501477298
+average F-2 score:  0.1352272893117251
+------------------------------
+maximum nmi:  0.0024732377491531762
+maximum F-1 score:  0.10245502634430873
+maximum F-2 score:  0.1726718505118305
+------------------------------
+MAE: 0.08074696023709757
+RMSE: 0.2841600961378947 
+
+------------------------------
+---------Final Results--------
+------------------------------
+Final average nmi:  0.00134303950673133
+Final average F-1 score:  0.09051725015529892
+Final average F-2 score:  0.1328947399929098
+------------------------------
+Final maximum nmi:  0.004922892055566493
+Final maximum F-1 score:  0.09574820486306798
+Final maximum F-2 score:  0.15445551211562475
+------------------------------
+Final MAE: 0.08067320202671407
+Final RMSE: 0.2840302836436884 
+
+------------------------------
+-----------Summary------------
+------------------------------
+Time cost in total:  844.1955769062042 s
+Iteration rounds:  10
+Parameter selected:  [array([array([array([array([array([1.44], dtype=object)], dtype=object)], dtype=object)],
+      dtype=object)], dtype=object)]
+
+Process finished with exit code 0

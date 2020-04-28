@@ -1,0 +1,827 @@
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\python.exe "D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\2_random_searching_main.py"
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 1.8849
+Epoch   25, loss.full = 0.7171
+Epoch   50, loss.full = 0.6004
+Epoch   75, loss.full = 0.6195
+Epoch  100, loss.full = 0.6020
+Epoch  125, loss.full = 0.7234
+Epoch  150, loss.full = 0.7080
+Epoch  175, loss.full = 0.7039
+Epoch  200, loss.full = 0.5765
+Epoch  225, loss.full = 0.6463
+Epoch  250, loss.full = 0.7005
+Epoch  275, loss.full = 0.6435
+Epoch  300, loss.full = 0.7093
+Epoch  325, loss.full = 0.6451
+Epoch  350, loss.full = 0.5858
+Epoch  375, loss.full = 0.6119
+Epoch  400, loss.full = 0.5669
+Epoch  425, loss.full = 0.6150
+Epoch  450, loss.full = 0.5616
+Epoch  475, loss.full = 0.6150
+Epoch  500, loss.full = 0.5591
+------------------------------
+Current threshold: 0.1
+nmi = 0.00209
+F-1 Score = 0.09180
+F-2 Score = 0.16405
+------------------------------
+Current threshold: 0.2
+nmi = 0.00194
+F-1 Score = 0.09567
+F-2 Score = 0.16206
+------------------------------
+Current threshold: 0.3
+nmi = 0.00174
+F-1 Score = 0.09664
+F-2 Score = 0.15470
+------------------------------
+Current threshold: 0.4
+nmi = 0.00000
+F-1 Score = 0.09271
+F-2 Score = 0.14592
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = 0.09065
+F-2 Score = 0.13357
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.08264
+F-2 Score = 0.11954
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.07704
+F-2 Score = 0.10805
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.07168
+F-2 Score = 0.09365
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.06627
+F-2 Score = 0.07684
+------------------------------
+average nmi:  0.0006413582999513712
+average F-1 score:  0.08501089402957065
+average F-2 score:  0.1287099255342552
+------------------------------
+maximum nmi:  0.002094946206451266
+maximum F-1 score:  0.09663850887084072
+maximum F-2 score:  0.1640493542212075
+------------------------------
+MAE: 0.08081604213443082
+RMSE: 0.28428162468656115 
+
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\2_random_searching_main.py:47: UserWarning: Attempting to set identical bottom == top == 0.002094946206451266 results in singular transformations; automatically expanding.
+  np.max(train_labels) + 0.2 * distance])
+Next Guess:  0.7199338454421236
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 1.0827
+Epoch   25, loss.full = 0.6509
+Epoch   50, loss.full = 0.5059
+Epoch   75, loss.full = 0.4583
+Epoch  100, loss.full = 0.4321
+Epoch  125, loss.full = 0.4233
+Epoch  150, loss.full = 0.4087
+Epoch  175, loss.full = 0.4030
+Epoch  200, loss.full = 0.3997
+Epoch  225, loss.full = 0.3962
+Epoch  250, loss.full = 0.3961
+Epoch  275, loss.full = 0.3924
+Epoch  300, loss.full = 0.3909
+Epoch  325, loss.full = 0.3896
+Epoch  350, loss.full = 0.3889
+Epoch  375, loss.full = 0.3894
+Epoch  400, loss.full = 0.3868
+Epoch  425, loss.full = 0.3851
+Epoch  450, loss.full = 0.3847
+Epoch  475, loss.full = 0.3832
+Epoch  500, loss.full = 0.3822
+------------------------------
+Current threshold: 0.1
+nmi = 0.00113
+F-1 Score = 0.09127
+F-2 Score = 0.15511
+------------------------------
+Current threshold: 0.2
+nmi = 0.00162
+F-1 Score = 0.09244
+F-2 Score = 0.15249
+------------------------------
+Current threshold: 0.3
+nmi = 0.00070
+F-1 Score = 0.09193
+F-2 Score = 0.14448
+------------------------------
+Current threshold: 0.4
+nmi = -0.00000
+F-1 Score = 0.09239
+F-2 Score = 0.13907
+------------------------------
+Current threshold: 0.5
+nmi = -0.00000
+F-1 Score = 0.09154
+F-2 Score = 0.13258
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.08813
+F-2 Score = 0.12212
+------------------------------
+Current threshold: 0.7
+nmi = 0.00000
+F-1 Score = 0.08754
+F-2 Score = 0.11628
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.08494
+F-2 Score = 0.10985
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08297
+F-2 Score = 0.10271
+------------------------------
+average nmi:  0.000384180652037392
+average F-1 score:  0.08923851023279829
+average F-2 score:  0.1305207544745331
+------------------------------
+maximum nmi:  0.0016223993984462476
+maximum F-1 score:  0.09244055561455891
+maximum F-2 score:  0.15511196701631483
+------------------------------
+MAE: 0.08022895228694027
+RMSE: 0.28324715759728336 
+
+Next Guess:  1.891709207504328
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.7466
+Epoch   25, loss.full = 0.6511
+Epoch   50, loss.full = 0.7540
+Epoch   75, loss.full = 0.5863
+Epoch  100, loss.full = 0.5372
+Epoch  125, loss.full = 0.5109
+Epoch  150, loss.full = 0.4844
+Epoch  175, loss.full = 0.5001
+Epoch  200, loss.full = 0.4653
+Epoch  225, loss.full = 0.4638
+Epoch  250, loss.full = 0.4659
+Epoch  275, loss.full = 0.4494
+Epoch  300, loss.full = 0.4455
+Epoch  325, loss.full = 0.4413
+Epoch  350, loss.full = 0.4389
+Epoch  375, loss.full = 0.4356
+Epoch  400, loss.full = 0.4393
+Epoch  425, loss.full = 0.4494
+Epoch  450, loss.full = 0.4263
+Epoch  475, loss.full = 0.4260
+Epoch  500, loss.full = 0.4217
+------------------------------
+Current threshold: 0.1
+nmi = 0.00480
+F-1 Score = 0.09717
+F-2 Score = 0.16650
+------------------------------
+Current threshold: 0.2
+nmi = 0.00474
+F-1 Score = 0.09848
+F-2 Score = 0.16472
+------------------------------
+Current threshold: 0.3
+nmi = 0.00105
+F-1 Score = 0.10132
+F-2 Score = 0.16231
+------------------------------
+Current threshold: 0.4
+nmi = -0.00000
+F-1 Score = 0.09691
+F-2 Score = 0.15317
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = 0.09285
+F-2 Score = 0.14434
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.09255
+F-2 Score = 0.13390
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.09050
+F-2 Score = 0.12560
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08869
+F-2 Score = 0.11868
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08975
+F-2 Score = 0.11454
+------------------------------
+average nmi:  0.0011767651460563068
+average F-1 score:  0.0942484249736265
+average F-2 score:  0.14263946917000056
+------------------------------
+maximum nmi:  0.004800188421740592
+maximum F-1 score:  0.10132338389313822
+maximum F-2 score:  0.16649982496425864
+------------------------------
+MAE: 0.08073123082047401
+RMSE: 0.2841324177570627 
+
+Next Guess:  2.6552319759809966
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6258
+Epoch   25, loss.full = 0.5961
+Epoch   50, loss.full = 0.5872
+Epoch   75, loss.full = 0.6262
+Epoch  100, loss.full = 0.5946
+Epoch  125, loss.full = 0.6138
+Epoch  150, loss.full = 0.6393
+Epoch  175, loss.full = 0.6187
+Epoch  200, loss.full = 0.5602
+Epoch  225, loss.full = 0.5748
+Epoch  250, loss.full = 0.5483
+Epoch  275, loss.full = 0.5345
+Epoch  300, loss.full = 0.5355
+Epoch  325, loss.full = 0.5131
+Epoch  350, loss.full = 0.5088
+Epoch  375, loss.full = 0.5193
+Epoch  400, loss.full = 0.4955
+Epoch  425, loss.full = 0.5011
+Epoch  450, loss.full = 0.4963
+Epoch  475, loss.full = 0.4894
+Epoch  500, loss.full = 0.4851
+------------------------------
+Current threshold: 0.1
+nmi = 0.00270
+F-1 Score = 0.09903
+F-2 Score = 0.16895
+------------------------------
+Current threshold: 0.2
+nmi = 0.00242
+F-1 Score = 0.09026
+F-2 Score = 0.16101
+------------------------------
+Current threshold: 0.3
+nmi = 0.00275
+F-1 Score = 0.09395
+F-2 Score = 0.15627
+------------------------------
+Current threshold: 0.4
+nmi = 0.00280
+F-1 Score = 0.09722
+F-2 Score = 0.15082
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = 0.09289
+F-2 Score = 0.13837
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.08394
+F-2 Score = 0.12365
+------------------------------
+Current threshold: 0.7
+nmi = 0.00000
+F-1 Score = 0.08355
+F-2 Score = 0.11039
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.07707
+F-2 Score = 0.09564
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.07280
+F-2 Score = 0.08727
+------------------------------
+average nmi:  0.001184855053843685
+average F-1 score:  0.08785624948777078
+average F-2 score:  0.13248618716460925
+------------------------------
+maximum nmi:  0.002804548544520346
+maximum F-1 score:  0.09903484372543003
+maximum F-2 score:  0.16895155525532635
+------------------------------
+MAE: 0.08073888296910169
+RMSE: 0.28414588325207474 
+
+Next Guess:  2.867176590233375
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6313
+Epoch   25, loss.full = 0.6315
+Epoch   50, loss.full = 0.5879
+Epoch   75, loss.full = 0.5826
+Epoch  100, loss.full = 0.6230
+Epoch  125, loss.full = 0.6018
+Epoch  150, loss.full = 0.6185
+Epoch  175, loss.full = 0.5761
+Epoch  200, loss.full = 0.5803
+Epoch  225, loss.full = 0.6360
+Epoch  250, loss.full = 0.5714
+Epoch  275, loss.full = 0.5497
+Epoch  300, loss.full = 0.5647
+Epoch  325, loss.full = 0.5476
+Epoch  350, loss.full = 0.5556
+Epoch  375, loss.full = 0.5442
+Epoch  400, loss.full = 0.5226
+Epoch  425, loss.full = 0.5436
+Epoch  450, loss.full = 0.5168
+Epoch  475, loss.full = 0.5163
+Epoch  500, loss.full = 0.4989
+------------------------------
+Current threshold: 0.1
+nmi = 0.00256
+F-1 Score = 0.09776
+F-2 Score = 0.16977
+------------------------------
+Current threshold: 0.2
+nmi = 0.00294
+F-1 Score = 0.09745
+F-2 Score = 0.16508
+------------------------------
+Current threshold: 0.3
+nmi = 0.00172
+F-1 Score = 0.09469
+F-2 Score = 0.16182
+------------------------------
+Current threshold: 0.4
+nmi = 0.00109
+F-1 Score = 0.09472
+F-2 Score = 0.15133
+------------------------------
+Current threshold: 0.5
+nmi = -0.00000
+F-1 Score = 0.09560
+F-2 Score = 0.13830
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = 0.09224
+F-2 Score = 0.11833
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08129
+F-2 Score = 0.09998
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.07523
+F-2 Score = 0.08681
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.06753
+F-2 Score = 0.07774
+------------------------------
+average nmi:  0.0009235400191578176
+average F-1 score:  0.088500731041297
+average F-2 score:  0.12990943622427084
+------------------------------
+maximum nmi:  0.002944208117589662
+maximum F-1 score:  0.09775855302449875
+maximum F-2 score:  0.16977177654749182
+------------------------------
+MAE: 0.08075354958730474
+RMSE: 0.2841716903340386 
+
+Next Guess:  2.4730325818014647
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6450
+Epoch   25, loss.full = 0.6479
+Epoch   50, loss.full = 0.6257
+Epoch   75, loss.full = 0.6698
+Epoch  100, loss.full = 0.6478
+Epoch  125, loss.full = 0.6246
+Epoch  150, loss.full = 0.5720
+Epoch  175, loss.full = 0.5396
+Epoch  200, loss.full = 0.5252
+Epoch  225, loss.full = 0.5397
+Epoch  250, loss.full = 0.5192
+Epoch  275, loss.full = 0.5071
+Epoch  300, loss.full = 0.5129
+Epoch  325, loss.full = 0.5028
+Epoch  350, loss.full = 0.4896
+Epoch  375, loss.full = 0.4803
+Epoch  400, loss.full = 0.5058
+Epoch  425, loss.full = 0.4763
+Epoch  450, loss.full = 0.4706
+Epoch  475, loss.full = 0.4690
+Epoch  500, loss.full = 0.4690
+------------------------------
+Current threshold: 0.1
+nmi = 0.00285
+F-1 Score = 0.09113
+F-2 Score = 0.16301
+------------------------------
+Current threshold: 0.2
+nmi = 0.00199
+F-1 Score = 0.09405
+F-2 Score = 0.16203
+------------------------------
+Current threshold: 0.3
+nmi = 0.00077
+F-1 Score = 0.09669
+F-2 Score = 0.16252
+------------------------------
+Current threshold: 0.4
+nmi = 0.00113
+F-1 Score = 0.09606
+F-2 Score = 0.15725
+------------------------------
+Current threshold: 0.5
+nmi = 0.00102
+F-1 Score = 0.09627
+F-2 Score = 0.14980
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = 0.09606
+F-2 Score = 0.13652
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.09385
+F-2 Score = 0.12202
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08478
+F-2 Score = 0.10174
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.08067
+F-2 Score = 0.09273
+------------------------------
+average nmi:  0.0008625407407196565
+average F-1 score:  0.09217281360662963
+average F-2 score:  0.13862380893831344
+------------------------------
+maximum nmi:  0.002846992353720514
+maximum F-1 score:  0.09669305959376774
+maximum F-2 score:  0.16301078824468096
+------------------------------
+MAE: 0.08073420665605144
+RMSE: 0.2841376544142846 
+
+Next Guess:  1.2864712962227252
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.7286
+Epoch   25, loss.full = 0.5646
+Epoch   50, loss.full = 0.5329
+Epoch   75, loss.full = 0.4752
+Epoch  100, loss.full = 0.4567
+Epoch  125, loss.full = 0.4451
+Epoch  150, loss.full = 0.4343
+Epoch  175, loss.full = 0.4329
+Epoch  200, loss.full = 0.4247
+Epoch  225, loss.full = 0.4227
+Epoch  250, loss.full = 0.4194
+Epoch  275, loss.full = 0.4220
+Epoch  300, loss.full = 0.4131
+Epoch  325, loss.full = 0.4125
+Epoch  350, loss.full = 0.4105
+Epoch  375, loss.full = 0.4112
+Epoch  400, loss.full = 0.4056
+Epoch  425, loss.full = 0.4054
+Epoch  450, loss.full = 0.4091
+Epoch  475, loss.full = 0.4030
+Epoch  500, loss.full = 0.4017
+------------------------------
+Current threshold: 0.1
+nmi = 0.00447
+F-1 Score = 0.09712
+F-2 Score = 0.15728
+------------------------------
+Current threshold: 0.2
+nmi = 0.00286
+F-1 Score = 0.09427
+F-2 Score = 0.15164
+------------------------------
+Current threshold: 0.3
+nmi = 0.00046
+F-1 Score = 0.09302
+F-2 Score = 0.14811
+------------------------------
+Current threshold: 0.4
+nmi = 0.00000
+F-1 Score = 0.09452
+F-2 Score = 0.14005
+------------------------------
+Current threshold: 0.5
+nmi = -0.00000
+F-1 Score = 0.09379
+F-2 Score = 0.13323
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = 0.09355
+F-2 Score = 0.12679
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.09269
+F-2 Score = 0.12044
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.09173
+F-2 Score = 0.11603
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.08862
+F-2 Score = 0.10863
+------------------------------
+average nmi:  0.0008650504827118215
+average F-1 score:  0.09325650861369345
+average F-2 score:  0.1335778738816239
+------------------------------
+maximum nmi:  0.004471401424211887
+maximum F-1 score:  0.09712345611738263
+maximum F-2 score:  0.15727781519144615
+------------------------------
+MAE: 0.0805641589087696
+RMSE: 0.28383826188301253 
+
+Next Guess:  1.444716405770758
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6192
+Epoch   25, loss.full = 0.6723
+Epoch   50, loss.full = 0.6036
+Epoch   75, loss.full = 0.5269
+Epoch  100, loss.full = 0.4994
+Epoch  125, loss.full = 0.4778
+Epoch  150, loss.full = 0.4515
+Epoch  175, loss.full = 0.4586
+Epoch  200, loss.full = 0.4373
+Epoch  225, loss.full = 0.4332
+Epoch  250, loss.full = 0.4370
+Epoch  275, loss.full = 0.4287
+Epoch  300, loss.full = 0.4243
+Epoch  325, loss.full = 0.4247
+Epoch  350, loss.full = 0.4226
+Epoch  375, loss.full = 0.4207
+Epoch  400, loss.full = 0.4177
+Epoch  425, loss.full = 0.4139
+Epoch  450, loss.full = 0.4094
+Epoch  475, loss.full = 0.4075
+Epoch  500, loss.full = 0.4050
+------------------------------
+Current threshold: 0.1
+nmi = 0.00109
+F-1 Score = 0.09688
+F-2 Score = 0.16396
+------------------------------
+Current threshold: 0.2
+nmi = 0.00055
+F-1 Score = 0.09832
+F-2 Score = 0.16036
+------------------------------
+Current threshold: 0.3
+nmi = 0.00153
+F-1 Score = 0.09831
+F-2 Score = 0.15409
+------------------------------
+Current threshold: 0.4
+nmi = 0.00046
+F-1 Score = 0.09741
+F-2 Score = 0.14644
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = 0.09312
+F-2 Score = 0.13891
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.09183
+F-2 Score = 0.12738
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08810
+F-2 Score = 0.11725
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08471
+F-2 Score = 0.10923
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = 0.08494
+F-2 Score = 0.10404
+------------------------------
+average nmi:  0.00040245928642519793
+average F-1 score:  0.09262391103588218
+average F-2 score:  0.13574103554040376
+------------------------------
+maximum nmi:  0.0015292724987841838
+maximum F-1 score:  0.09831656134400332
+maximum F-2 score:  0.16396319722228675
+------------------------------
+MAE: 0.08076842876519191
+RMSE: 0.28419786903703537 
+
+Next Guess:  0.8740073240311513
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6229
+Epoch   25, loss.full = 0.6021
+Epoch   50, loss.full = 0.5929
+Epoch   75, loss.full = 0.4995
+Epoch  100, loss.full = 0.4808
+Epoch  125, loss.full = 0.4391
+Epoch  150, loss.full = 0.4166
+Epoch  175, loss.full = 0.4147
+Epoch  200, loss.full = 0.4071
+Epoch  225, loss.full = 0.4000
+Epoch  250, loss.full = 0.3981
+Epoch  275, loss.full = 0.4013
+Epoch  300, loss.full = 0.3960
+Epoch  325, loss.full = 0.3946
+Epoch  350, loss.full = 0.3914
+Epoch  375, loss.full = 0.3900
+Epoch  400, loss.full = 0.3870
+Epoch  425, loss.full = 0.3851
+Epoch  450, loss.full = 0.3841
+Epoch  475, loss.full = 0.3830
+Epoch  500, loss.full = 0.3813
+------------------------------
+Current threshold: 0.1
+nmi = 0.00248
+F-1 Score = 0.09400
+F-2 Score = 0.16124
+------------------------------
+Current threshold: 0.2
+nmi = 0.00135
+F-1 Score = 0.09407
+F-2 Score = 0.15460
+------------------------------
+Current threshold: 0.3
+nmi = 0.00000
+F-1 Score = 0.09241
+F-2 Score = 0.14464
+------------------------------
+Current threshold: 0.4
+nmi = 0.00000
+F-1 Score = 0.09220
+F-2 Score = 0.13706
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = 0.09188
+F-2 Score = 0.13262
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = 0.08784
+F-2 Score = 0.12448
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08678
+F-2 Score = 0.12023
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = 0.08637
+F-2 Score = 0.11515
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.08641
+F-2 Score = 0.11140
+------------------------------
+average nmi:  0.0004255886857333734
+average F-1 score:  0.09021649284725125
+average F-2 score:  0.13348998512573196
+------------------------------
+maximum nmi:  0.00248299135213858
+maximum F-1 score:  0.09406992089553573
+maximum F-2 score:  0.16123557036878955
+------------------------------
+MAE: 0.08042727047220771
+RMSE: 0.28359702126822084 
+
+Next Guess:  2.6037349597016597
+self.eps 0.04353402441342891
+Epoch    0, loss.full = 0.6272
+Epoch   25, loss.full = 0.6399
+Epoch   50, loss.full = 0.6455
+Epoch   75, loss.full = 0.7289
+Epoch  100, loss.full = 0.6795
+Epoch  125, loss.full = 0.7195
+Epoch  150, loss.full = 0.6617
+Epoch  175, loss.full = 0.7608
+Epoch  200, loss.full = 0.6397
+Epoch  225, loss.full = 0.6091
+Epoch  250, loss.full = 0.5737
+Epoch  275, loss.full = 0.5779
+Epoch  300, loss.full = 0.5212
+Epoch  325, loss.full = 0.5397
+Epoch  350, loss.full = 0.5150
+Epoch  375, loss.full = 0.5207
+Epoch  400, loss.full = 0.4977
+Epoch  425, loss.full = 0.4955
+Epoch  450, loss.full = 0.5063
+Epoch  475, loss.full = 0.4908
+Epoch  500, loss.full = 0.4874
+------------------------------
+Current threshold: 0.1
+nmi = 0.00228
+F-1 Score = 0.09258
+F-2 Score = 0.16222
+------------------------------
+Current threshold: 0.2
+nmi = 0.00316
+F-1 Score = 0.09732
+F-2 Score = 0.16457
+------------------------------
+Current threshold: 0.3
+nmi = 0.00305
+F-1 Score = 0.09717
+F-2 Score = 0.16027
+------------------------------
+Current threshold: 0.4
+nmi = 0.00118
+F-1 Score = 0.09251
+F-2 Score = 0.15246
+------------------------------
+Current threshold: 0.5
+nmi = 0.00125
+F-1 Score = 0.09081
+F-2 Score = 0.13872
+------------------------------
+Current threshold: 0.6
+nmi = -0.00000
+F-1 Score = 0.08747
+F-2 Score = 0.12475
+------------------------------
+Current threshold: 0.7
+nmi = -0.00000
+F-1 Score = 0.08569
+F-2 Score = 0.11325
+------------------------------
+Current threshold: 0.8
+nmi = -0.00000
+F-1 Score = 0.08117
+F-2 Score = 0.10463
+------------------------------
+Current threshold: 0.9
+nmi = -0.00000
+F-1 Score = 0.07053
+F-2 Score = 0.08818
+------------------------------
+average nmi:  0.0012126648024510778
+average F-1 score:  0.08836010529955728
+average F-2 score:  0.13433980957126945
+------------------------------
+maximum nmi:  0.0031561734498118483
+maximum F-1 score:  0.09731804100073196
+maximum F-2 score:  0.16457151395105302
+------------------------------
+MAE: 0.08076417757150986
+RMSE: 0.28419038965367893 
+
+Next Guess:  1.0412508980426578
+------------------------------
+---------Final Results--------
+------------------------------
+Final average nmi:  0.0011767651460563068
+Final average F-1 score:  0.0942484249736265
+Final average F-2 score:  0.14263946917000056
+------------------------------
+Final maximum nmi:  0.004800188421740592
+Final maximum F-1 score:  0.10132338389313822
+Final maximum F-2 score:  0.16649982496425864
+------------------------------
+Final MAE: 0.08073123082047401
+Final RMSE: 0.2841324177570627 
+
+------------------------------
+-----------Summary------------
+------------------------------
+Time cost in total:  855.9077665805817 s
+Iteration rounds:  10
+Parameter selected:  [array([array([array([array([array([array([array([1.891709207504328], dtype=object)], dtype=object)],
+      dtype=object)], dtype=object)], dtype=object)], dtype=object)],
+      dtype=object)]
+
+Process finished with exit code 0

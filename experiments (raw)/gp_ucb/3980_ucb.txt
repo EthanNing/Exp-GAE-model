@@ -1,0 +1,1192 @@
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\python.exe "D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\4_bayesian_optimization_main.py"
+self.eps 0.08919217091793993
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 1.7824
+Epoch   25, loss.full = 7.4850
+Epoch   50, loss.full = 2.9451
+Epoch   75, loss.full = 2.1078
+Epoch  100, loss.full = 2.4981
+Epoch  125, loss.full = 3.6674
+Epoch  150, loss.full = 2.9360
+Epoch  175, loss.full = 2.3422
+Epoch  200, loss.full = 1.9179
+Epoch  225, loss.full = 1.5980
+Epoch  250, loss.full = 1.3006
+Epoch  275, loss.full = 1.4042
+Epoch  300, loss.full = 1.4004
+Epoch  325, loss.full = 2.8814
+Epoch  350, loss.full = 2.2828
+Epoch  375, loss.full = 1.3356
+Epoch  400, loss.full = 1.3694
+Epoch  425, loss.full = 1.5935
+Epoch  450, loss.full = 1.9190
+Epoch  475, loss.full = 1.7800
+Epoch  500, loss.full = 1.7796
+------------------------------
+Current threshold: 0.1
+nmi = 0.08956
+F-1 Score = 0.27449
+F-2 Score = 0.40880
+------------------------------
+Current threshold: 0.2
+nmi = 0.09459
+F-1 Score = 0.26242
+F-2 Score = 0.39472
+------------------------------
+Current threshold: 0.3
+nmi = 0.09571
+F-1 Score = 0.29621
+F-2 Score = 0.44282
+------------------------------
+Current threshold: 0.4
+nmi = 0.11546
+F-1 Score = 0.30294
+F-2 Score = 0.44584
+------------------------------
+Current threshold: 0.5
+nmi = 0.12044
+F-1 Score = 0.31796
+F-2 Score = 0.46690
+------------------------------
+Current threshold: 0.6
+nmi = 0.11320
+F-1 Score = 0.31519
+F-2 Score = 0.44865
+------------------------------
+Current threshold: 0.7
+nmi = 0.11203
+F-1 Score = 0.34060
+F-2 Score = 0.47719
+------------------------------
+Current threshold: 0.8
+nmi = 0.12048
+F-1 Score = 0.33714
+F-2 Score = 0.46390
+------------------------------
+Current threshold: 0.9
+nmi = 0.12291
+F-1 Score = 0.32503
+F-2 Score = 0.44615
+------------------------------
+average nmi:  0.10937518352561885
+average F-1 score:  0.30799723935269774
+average F-2 score:  0.44388554952088594
+------------------------------
+maximum nmi:  0.12291407809871477
+maximum F-1 score:  0.3406009974431027
+maximum F-2 score:  0.47718968023077335
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.7197118598331819
+Std 2:  0.7197118598331819
+Amplifier:  2.6432678925998916
+Next Guess:  1.940519435121061
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+self.eps 0.08919217091793993
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 2.2419
+Epoch   25, loss.full = 2.0407
+Epoch   50, loss.full = 0.7091
+Epoch   75, loss.full = 0.8520
+Epoch  100, loss.full = 0.8525
+Epoch  125, loss.full = 0.7513
+Epoch  150, loss.full = 0.8602
+Epoch  175, loss.full = 1.0398
+Epoch  200, loss.full = 0.7996
+Epoch  225, loss.full = 0.7511
+Epoch  250, loss.full = 0.7579
+Epoch  275, loss.full = 0.8914
+Epoch  300, loss.full = 0.8943
+Epoch  325, loss.full = 0.8680
+Breaking due to early stopping at epoch 325
+------------------------------
+Current threshold: 0.1
+nmi = 0.09816
+F-1 Score = 0.28348
+F-2 Score = 0.40993
+------------------------------
+Current threshold: 0.2
+nmi = 0.10575
+F-1 Score = 0.33785
+F-2 Score = 0.44062
+------------------------------
+Current threshold: 0.3
+nmi = 0.12679
+F-1 Score = 0.35534
+F-2 Score = 0.46931
+------------------------------
+Current threshold: 0.4
+nmi = 0.11977
+F-1 Score = 0.40004
+F-2 Score = 0.50896
+------------------------------
+Current threshold: 0.5
+nmi = 0.08252
+F-1 Score = 0.35916
+F-2 Score = 0.44975
+------------------------------
+Current threshold: 0.6
+nmi = 0.07860
+F-1 Score = 0.36281
+F-2 Score = 0.44692
+------------------------------
+Current threshold: 0.7
+nmi = 0.10480
+F-1 Score = 0.39734
+F-2 Score = 0.45939
+------------------------------
+Current threshold: 0.8
+nmi = 0.09210
+F-1 Score = 0.38389
+F-2 Score = 0.44774
+------------------------------
+Current threshold: 0.9
+nmi = 0.08781
+F-1 Score = 0.36688
+F-2 Score = 0.47222
+------------------------------
+average nmi:  0.09959011467457332
+average F-1 score:  0.36075410605860875
+average F-2 score:  0.4560923530985841
+------------------------------
+maximum nmi:  0.12678659270310133
+maximum F-1 score:  0.4000388926727977
+maximum F-2 score:  0.5089620170765938
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  3.274356288822883e-05
+Std 2:  3.274356288822883e-05
+Amplifier:  3.2330482605196598
+Next Guess:  0.4
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+self.eps 0.08919217091793993
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 4.6221
+Epoch   25, loss.full = 0.6610
+Epoch   50, loss.full = 0.6607
+Epoch   75, loss.full = 0.6590
+Epoch  100, loss.full = 0.6582
+Epoch  125, loss.full = 0.6578
+Epoch  150, loss.full = 0.6575
+Epoch  175, loss.full = 0.6574
+Epoch  200, loss.full = 0.6574
+Epoch  225, loss.full = 0.6574
+Epoch  250, loss.full = 0.6574
+Epoch  275, loss.full = 0.6574
+Epoch  300, loss.full = 0.6574
+Epoch  325, loss.full = 0.6574
+Epoch  350, loss.full = 0.6574
+Epoch  375, loss.full = 0.6574
+Epoch  400, loss.full = 0.6574
+Epoch  425, loss.full = 0.6574
+Epoch  450, loss.full = 0.6574
+Epoch  475, loss.full = 0.6574
+Breaking due to early stopping at epoch 475
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\lib\site-packages\numpy\core\fromnumeric.py:3118: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\lib\site-packages\numpy\core\_methods.py:85: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+------------------------------
+Current threshold: 0.1
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.2
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.3
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.4
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.5
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.6
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.7
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.8
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+Current threshold: 0.9
+nmi = 0.00000
+F-1 Score = nan
+F-2 Score = nan
+------------------------------
+average nmi:  0.0
+average F-1 score:  nan
+average F-2 score:  nan
+------------------------------
+maximum nmi:  0.0
+maximum F-1 score:  nan
+maximum F-2 score:  nan
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.004806296720642727
+Std 2:  0.004806296720642727
+Amplifier:  3.5326939572216016
+Next Guess:  2.3566956695669568
+self.eps 0.08919217091793993
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 1.6008
+Epoch   25, loss.full = 3.1820
+Epoch   50, loss.full = 3.1697
+Epoch   75, loss.full = 2.5939
+Epoch  100, loss.full = 1.8109
+Epoch  125, loss.full = 1.7593
+Epoch  150, loss.full = 2.8799
+Epoch  175, loss.full = 1.2205
+Epoch  200, loss.full = 1.1041
+Epoch  225, loss.full = 0.9895
+Epoch  250, loss.full = 1.0695
+Epoch  275, loss.full = 0.9904
+Epoch  300, loss.full = 1.1625
+Epoch  325, loss.full = 1.5372
+Epoch  350, loss.full = 1.2898
+Epoch  375, loss.full = 1.2836
+Epoch  400, loss.full = 1.2857
+Epoch  425, loss.full = 1.1600
+Epoch  450, loss.full = 1.0319
+Epoch  475, loss.full = 1.1724
+Epoch  500, loss.full = 1.0981
+Breaking due to early stopping at epoch 500
+------------------------------
+Current threshold: 0.1
+nmi = 0.14392
+F-1 Score = 0.30233
+F-2 Score = 0.40595
+------------------------------
+Current threshold: 0.2
+nmi = 0.15364
+F-1 Score = 0.29344
+F-2 Score = 0.39610
+------------------------------
+Current threshold: 0.3
+nmi = 0.15773
+F-1 Score = 0.30172
+F-2 Score = 0.39927
+------------------------------
+Current threshold: 0.4
+nmi = 0.14341
+F-1 Score = 0.31700
+F-2 Score = 0.41240
+------------------------------
+Current threshold: 0.5
+nmi = 0.14707
+F-1 Score = 0.33075
+F-2 Score = 0.42102
+------------------------------
+Current threshold: 0.6
+nmi = 0.12023
+F-1 Score = 0.30450
+F-2 Score = 0.40690
+------------------------------
+Current threshold: 0.7
+nmi = 0.14152
+F-1 Score = 0.34835
+F-2 Score = 0.45865
+------------------------------
+Current threshold: 0.8
+nmi = 0.15342
+F-1 Score = 0.38738
+F-2 Score = 0.48669
+------------------------------
+Current threshold: 0.9
+nmi = 0.14686
+F-1 Score = 0.36922
+F-2 Score = 0.48848
+------------------------------
+average nmi:  0.14531080077828118
+average F-1 score:  0.32829860661184973
+average F-2 score:  0.43060425076533915
+------------------------------
+maximum nmi:  0.1577322566715203
+maximum F-1 score:  0.3873847167325428
+maximum F-2 score:  0.48847704993039914
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.015069840271077863
+Std 2:  0.015069840271077863
+Amplifier:  3.7307287435096277
+Next Guess:  1.1473147314731473
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+self.eps 0.08919217091793993
+Epoch    0, loss.full = 4.0286
+Epoch   25, loss.full = 3.3063
+Epoch   50, loss.full = 3.2620
+Epoch   75, loss.full = 1.8293
+Epoch  100, loss.full = 0.8893
+Epoch  125, loss.full = 0.9439
+Epoch  150, loss.full = 0.9506
+Epoch  175, loss.full = 1.0577
+Epoch  200, loss.full = 1.0962
+Epoch  225, loss.full = 1.0999
+Epoch  250, loss.full = 0.9668
+Epoch  275, loss.full = 0.8759
+Epoch  300, loss.full = 0.8243
+Epoch  325, loss.full = 0.7340
+Epoch  350, loss.full = 0.6590
+Epoch  375, loss.full = 0.6230
+Epoch  400, loss.full = 0.6890
+Epoch  425, loss.full = 0.6466
+Epoch  450, loss.full = 0.6651
+Epoch  475, loss.full = 0.6807
+Epoch  500, loss.full = 0.7790
+------------------------------
+Current threshold: 0.1
+nmi = 0.20076
+F-1 Score = 0.33619
+F-2 Score = 0.45871
+------------------------------
+Current threshold: 0.2
+nmi = 0.21273
+F-1 Score = 0.34516
+F-2 Score = 0.46502
+------------------------------
+Current threshold: 0.3
+nmi = 0.19942
+F-1 Score = 0.34748
+F-2 Score = 0.46063
+------------------------------
+Current threshold: 0.4
+nmi = 0.19994
+F-1 Score = 0.34944
+F-2 Score = 0.45840
+------------------------------
+Current threshold: 0.5
+nmi = 0.17138
+F-1 Score = 0.35765
+F-2 Score = 0.47464
+------------------------------
+Current threshold: 0.6
+nmi = 0.19446
+F-1 Score = 0.36114
+F-2 Score = 0.47407
+------------------------------
+Current threshold: 0.7
+nmi = 0.18279
+F-1 Score = 0.35680
+F-2 Score = 0.43852
+------------------------------
+Current threshold: 0.8
+nmi = 0.16576
+F-1 Score = 0.35340
+F-2 Score = 0.43105
+------------------------------
+Current threshold: 0.9
+nmi = 0.16051
+F-1 Score = 0.33229
+F-2 Score = 0.41889
+------------------------------
+average nmi:  0.18752666112824443
+average F-1 score:  0.3488397584706236
+average F-2 score:  0.45332587381640416
+------------------------------
+maximum nmi:  0.21273369035913656
+maximum F-1 score:  0.36113892210148896
+maximum F-2 score:  0.4746403401095483
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.014848603887639245
+Std 2:  0.014848603887639245
+Amplifier:  3.877377298409322
+Next Guess:  0.8615461546154616
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+self.eps 0.08919217091793993
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 1.7509
+Epoch   25, loss.full = 1.8063
+Epoch   50, loss.full = 1.4003
+Epoch   75, loss.full = 0.7035
+Epoch  100, loss.full = 0.7819
+Epoch  125, loss.full = 0.8054
+Epoch  150, loss.full = 0.6973
+Epoch  175, loss.full = 0.7146
+Epoch  200, loss.full = 0.7100
+Epoch  225, loss.full = 0.6853
+Epoch  250, loss.full = 0.7427
+Epoch  275, loss.full = 0.7881
+Epoch  300, loss.full = 0.7802
+Epoch  325, loss.full = 0.7166
+Epoch  350, loss.full = 0.6965
+Epoch  375, loss.full = 0.5682
+Epoch  400, loss.full = 0.5888
+Epoch  425, loss.full = 0.6262
+Epoch  450, loss.full = 0.5582
+Epoch  475, loss.full = 0.5778
+Epoch  500, loss.full = 0.5546
+------------------------------
+Current threshold: 0.1
+nmi = 0.18668
+F-1 Score = 0.31223
+F-2 Score = 0.43386
+------------------------------
+Current threshold: 0.2
+nmi = 0.17289
+F-1 Score = 0.30515
+F-2 Score = 0.42182
+------------------------------
+Current threshold: 0.3
+nmi = 0.17670
+F-1 Score = 0.33357
+F-2 Score = 0.45345
+------------------------------
+Current threshold: 0.4
+nmi = 0.16538
+F-1 Score = 0.33064
+F-2 Score = 0.44892
+------------------------------
+Current threshold: 0.5
+nmi = 0.17399
+F-1 Score = 0.35164
+F-2 Score = 0.46656
+------------------------------
+Current threshold: 0.6
+nmi = 0.17399
+F-1 Score = 0.35164
+F-2 Score = 0.46656
+------------------------------
+Current threshold: 0.7
+nmi = 0.17130
+F-1 Score = 0.37443
+F-2 Score = 0.49465
+------------------------------
+Current threshold: 0.8
+nmi = 0.15877
+F-1 Score = 0.37290
+F-2 Score = 0.48728
+------------------------------
+Current threshold: 0.9
+nmi = 0.13932
+F-1 Score = 0.36615
+F-2 Score = 0.47274
+------------------------------
+average nmi:  0.1687771525794428
+average F-1 score:  0.3442603023022475
+average F-2 score:  0.4606468130046074
+------------------------------
+maximum nmi:  0.18667614346766304
+maximum F-1 score:  0.3744303804086413
+maximum F-2 score:  0.4946473772296427
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.007192482291631721
+Std 2:  0.007192482291631721
+Amplifier:  3.993202035733948
+Next Guess:  1.4026602660266025
+self.eps 0.08919217091793993
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 2.0554
+Epoch   25, loss.full = 2.1181
+Epoch   50, loss.full = 0.9924
+Epoch   75, loss.full = 0.9877
+Epoch  100, loss.full = 0.9546
+Epoch  125, loss.full = 1.2168
+Epoch  150, loss.full = 0.9587
+Epoch  175, loss.full = 0.9794
+Epoch  200, loss.full = 0.8972
+Epoch  225, loss.full = 0.7924
+Epoch  250, loss.full = 0.8247
+Epoch  275, loss.full = 0.9080
+Epoch  300, loss.full = 0.8034
+Epoch  325, loss.full = 0.7017
+Epoch  350, loss.full = 0.7135
+Epoch  375, loss.full = 0.7027
+Epoch  400, loss.full = 0.8475
+Epoch  425, loss.full = 0.7051
+Epoch  450, loss.full = 0.7582
+Epoch  475, loss.full = 0.7434
+Epoch  500, loss.full = 0.8963
+------------------------------
+Current threshold: 0.1
+nmi = 0.13550
+F-1 Score = 0.35590
+F-2 Score = 0.49767
+------------------------------
+Current threshold: 0.2
+nmi = 0.14370
+F-1 Score = 0.36097
+F-2 Score = 0.48054
+------------------------------
+Current threshold: 0.3
+nmi = 0.16138
+F-1 Score = 0.35207
+F-2 Score = 0.47728
+------------------------------
+Current threshold: 0.4
+nmi = 0.15299
+F-1 Score = 0.33476
+F-2 Score = 0.45849
+------------------------------
+Current threshold: 0.5
+nmi = 0.16194
+F-1 Score = 0.33503
+F-2 Score = 0.46300
+------------------------------
+Current threshold: 0.6
+nmi = 0.17336
+F-1 Score = 0.33598
+F-2 Score = 0.45419
+------------------------------
+Current threshold: 0.7
+nmi = 0.17368
+F-1 Score = 0.30919
+F-2 Score = 0.42139
+------------------------------
+Current threshold: 0.8
+nmi = 0.19218
+F-1 Score = 0.32913
+F-2 Score = 0.43120
+------------------------------
+Current threshold: 0.9
+nmi = 0.19256
+F-1 Score = 0.28092
+F-2 Score = 0.39164
+------------------------------
+average nmi:  0.1652542101002038
+average F-1 score:  0.3326603882258766
+average F-2 score:  0.452821579356687
+------------------------------
+maximum nmi:  0.19255614336303847
+maximum F-1 score:  0.3609714265900879
+maximum F-2 score:  0.49766548610356237
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.00451711351453647
+Std 2:  0.00451711351453647
+Amplifier:  4.088571376083098
+Next Guess:  1.0482448244824483
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+self.eps 0.08919217091793993
+Epoch    0, loss.full = 1.8121
+Epoch   25, loss.full = 2.6078
+Epoch   50, loss.full = 1.8469
+Epoch   75, loss.full = 1.1907
+Epoch  100, loss.full = 1.4909
+Epoch  125, loss.full = 1.5227
+Epoch  150, loss.full = 1.3028
+Epoch  175, loss.full = 1.0175
+Epoch  200, loss.full = 1.2699
+Epoch  225, loss.full = 1.0462
+Epoch  250, loss.full = 0.8799
+Epoch  275, loss.full = 0.6643
+Epoch  300, loss.full = 0.6121
+Epoch  325, loss.full = 0.5369
+Epoch  350, loss.full = 0.5786
+Epoch  375, loss.full = 0.5908
+Epoch  400, loss.full = 0.5553
+Epoch  425, loss.full = 0.5681
+Epoch  450, loss.full = 0.5506
+Epoch  475, loss.full = 0.5366
+Epoch  500, loss.full = 0.5979
+------------------------------
+Current threshold: 0.1
+nmi = 0.19647
+F-1 Score = 0.36154
+F-2 Score = 0.49251
+------------------------------
+Current threshold: 0.2
+nmi = 0.21677
+F-1 Score = 0.37392
+F-2 Score = 0.49961
+------------------------------
+Current threshold: 0.3
+nmi = 0.18831
+F-1 Score = 0.32942
+F-2 Score = 0.44674
+------------------------------
+Current threshold: 0.4
+nmi = 0.18965
+F-1 Score = 0.33826
+F-2 Score = 0.45594
+------------------------------
+Current threshold: 0.5
+nmi = 0.19340
+F-1 Score = 0.35891
+F-2 Score = 0.47951
+------------------------------
+Current threshold: 0.6
+nmi = 0.18547
+F-1 Score = 0.38802
+F-2 Score = 0.51193
+------------------------------
+Current threshold: 0.7
+nmi = 0.17707
+F-1 Score = 0.39679
+F-2 Score = 0.51763
+------------------------------
+Current threshold: 0.8
+nmi = 0.17355
+F-1 Score = 0.39380
+F-2 Score = 0.51431
+------------------------------
+Current threshold: 0.9
+nmi = 0.17611
+F-1 Score = 0.38348
+F-2 Score = 0.48970
+------------------------------
+average nmi:  0.18853160400457525
+average F-1 score:  0.36934907109897597
+average F-2 score:  0.4897638448507011
+------------------------------
+maximum nmi:  0.21677468006934042
+maximum F-1 score:  0.3967929292929293
+maximum F-2 score:  0.5176304350877405
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.006647257498336605
+Std 2:  0.006647257498336605
+Amplifier:  4.169421166115106
+Next Guess:  3.0
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+self.eps 0.08919217091793993
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 4.1807
+Epoch   25, loss.full = 1.9378
+Epoch   50, loss.full = 1.5542
+Epoch   75, loss.full = 2.2008
+Epoch  100, loss.full = 2.9227
+Epoch  125, loss.full = 4.2664
+Epoch  150, loss.full = 4.7981
+Epoch  175, loss.full = 5.1292
+Epoch  200, loss.full = 4.9726
+Epoch  225, loss.full = 4.6444
+Epoch  250, loss.full = 4.6613
+Epoch  275, loss.full = 4.5153
+Epoch  300, loss.full = 4.3237
+Epoch  325, loss.full = 4.6260
+Breaking due to early stopping at epoch 325
+------------------------------
+Current threshold: 0.1
+nmi = 0.08872
+F-1 Score = 0.24900
+F-2 Score = 0.35880
+------------------------------
+Current threshold: 0.2
+nmi = 0.07562
+F-1 Score = 0.22585
+F-2 Score = 0.33844
+------------------------------
+Current threshold: 0.3
+nmi = 0.07746
+F-1 Score = 0.23605
+F-2 Score = 0.35611
+------------------------------
+Current threshold: 0.4
+nmi = 0.09713
+F-1 Score = 0.25866
+F-2 Score = 0.37915
+------------------------------
+Current threshold: 0.5
+nmi = 0.10618
+F-1 Score = 0.26236
+F-2 Score = 0.38160
+------------------------------
+Current threshold: 0.6
+nmi = 0.11852
+F-1 Score = 0.27493
+F-2 Score = 0.39412
+------------------------------
+Current threshold: 0.7
+nmi = 0.11383
+F-1 Score = 0.26003
+F-2 Score = 0.40288
+------------------------------
+Current threshold: 0.8
+nmi = 0.09142
+F-1 Score = 0.27518
+F-2 Score = 0.40874
+------------------------------
+Current threshold: 0.9
+nmi = 0.09318
+F-1 Score = 0.28339
+F-2 Score = 0.41548
+------------------------------
+average nmi:  0.09578412372815887
+average F-1 score:  0.2583821609889568
+average F-2 score:  0.3817033019105238
+------------------------------
+maximum nmi:  0.11851600676641648
+maximum F-1 score:  0.28338615430270697
+maximum F-2 score:  0.4154849348485393
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.004597490226461713
+Std 2:  0.004597490226461713
+Amplifier:  4.239456101757697
+Next Guess:  1.0794479447944796
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+self.eps 0.08919217091793993
+Epoch    0, loss.full = 2.3646
+Epoch   25, loss.full = 3.0056
+Epoch   50, loss.full = 1.5584
+Epoch   75, loss.full = 0.6174
+Epoch  100, loss.full = 0.6607
+Epoch  125, loss.full = 0.6452
+Epoch  150, loss.full = 0.6775
+Epoch  175, loss.full = 1.0390
+Epoch  200, loss.full = 0.9448
+Epoch  225, loss.full = 0.7836
+Epoch  250, loss.full = 0.8692
+Epoch  275, loss.full = 0.8264
+Epoch  300, loss.full = 0.7128
+Epoch  325, loss.full = 0.6265
+Epoch  350, loss.full = 0.7274
+Breaking due to early stopping at epoch 350
+------------------------------
+Current threshold: 0.1
+nmi = 0.21466
+F-1 Score = 0.28408
+F-2 Score = 0.40756
+------------------------------
+Current threshold: 0.2
+nmi = 0.20201
+F-1 Score = 0.28218
+F-2 Score = 0.40620
+------------------------------
+Current threshold: 0.3
+nmi = 0.19175
+F-1 Score = 0.28382
+F-2 Score = 0.40905
+------------------------------
+Current threshold: 0.4
+nmi = 0.19450
+F-1 Score = 0.28673
+F-2 Score = 0.41232
+------------------------------
+Current threshold: 0.5
+nmi = 0.19740
+F-1 Score = 0.29462
+F-2 Score = 0.42456
+------------------------------
+Current threshold: 0.6
+nmi = 0.13900
+F-1 Score = 0.28411
+F-2 Score = 0.40719
+------------------------------
+Current threshold: 0.7
+nmi = 0.14370
+F-1 Score = 0.28879
+F-2 Score = 0.41441
+------------------------------
+Current threshold: 0.8
+nmi = 0.13207
+F-1 Score = 0.32068
+F-2 Score = 0.44941
+------------------------------
+Current threshold: 0.9
+nmi = 0.11384
+F-1 Score = 0.30606
+F-2 Score = 0.43151
+------------------------------
+average nmi:  0.16988033973471806
+average F-1 score:  0.292341962364913
+average F-2 score:  0.41802381232740116
+------------------------------
+maximum nmi:  0.21466352671582092
+maximum F-1 score:  0.3206786733096136
+maximum F-2 score:  0.4494057785555456
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\gaussian_process\gpr.py:346: UserWarning: Predicted variances smaller than 0. Setting those variances to 0.
+  warnings.warn("Predicted variances smaller than 0. "
+Std 1:  0.010363046062799244
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\gaussian_process\gpr.py:346: UserWarning: Predicted variances smaller than 0. Setting those variances to 0.
+  warnings.warn("Predicted variances smaller than 0. "
+Std 2:  0.010363046062799244
+Amplifier:  4.30113829317539
+Next Guess:  1.6515051505150513
+self.eps 0.08919217091793993
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 1.6402
+Epoch   25, loss.full = 0.7469
+Epoch   50, loss.full = 1.1820
+Epoch   75, loss.full = 1.4784
+Epoch  100, loss.full = 1.4919
+Epoch  125, loss.full = 1.6858
+Epoch  150, loss.full = 1.4285
+Epoch  175, loss.full = 1.0269
+Epoch  200, loss.full = 1.1194
+Epoch  225, loss.full = 1.0902
+Epoch  250, loss.full = 1.0744
+Epoch  275, loss.full = 0.9044
+Epoch  300, loss.full = 0.8298
+Breaking due to early stopping at epoch 300
+------------------------------
+Current threshold: 0.1
+nmi = 0.16197
+F-1 Score = 0.32959
+F-2 Score = 0.46300
+------------------------------
+Current threshold: 0.2
+nmi = 0.16688
+F-1 Score = 0.36302
+F-2 Score = 0.47242
+------------------------------
+Current threshold: 0.3
+nmi = 0.16274
+F-1 Score = 0.37142
+F-2 Score = 0.48001
+------------------------------
+Current threshold: 0.4
+nmi = 0.16098
+F-1 Score = 0.38155
+F-2 Score = 0.49239
+------------------------------
+Current threshold: 0.5
+nmi = 0.18531
+F-1 Score = 0.42661
+F-2 Score = 0.52842
+------------------------------
+Current threshold: 0.6
+nmi = 0.20493
+F-1 Score = 0.41403
+F-2 Score = 0.51389
+------------------------------
+Current threshold: 0.7
+nmi = 0.21711
+F-1 Score = 0.42745
+F-2 Score = 0.52283
+------------------------------
+Current threshold: 0.8
+nmi = 0.17846
+F-1 Score = 0.39474
+F-2 Score = 0.47799
+------------------------------
+Current threshold: 0.9
+nmi = 0.17546
+F-1 Score = 0.38519
+F-2 Score = 0.46079
+------------------------------
+average nmi:  0.1793147392306678
+average F-1 score:  0.38817811463183205
+average F-2 score:  0.4901933668098224
+------------------------------
+maximum nmi:  0.21710660223322517
+maximum F-1 score:  0.42744965686142156
+maximum F-2 score:  0.5284208290935107
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.011043304027057919
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\gaussian_process\gpr.py:346: UserWarning: Predicted variances smaller than 0. Setting those variances to 0.
+  warnings.warn("Predicted variances smaller than 0. "
+Std 2:  0.011043304027057919
+Amplifier:  4.356184283985392
+C:\Users\ningj\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\gaussian_process\gpr.py:346: UserWarning: Predicted variances smaller than 0. Setting those variances to 0.
+  warnings.warn("Predicted variances smaller than 0. "
+Next Guess:  2.5454745474547456
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+self.eps 0.08919217091793993
+Epoch    0, loss.full = 1.2609
+Epoch   25, loss.full = 1.7232
+Epoch   50, loss.full = 1.6906
+Epoch   75, loss.full = 1.8529
+Epoch  100, loss.full = 2.0907
+Epoch  125, loss.full = 1.7442
+Epoch  150, loss.full = 2.6783
+Epoch  175, loss.full = 3.0554
+Epoch  200, loss.full = 3.9971
+Epoch  225, loss.full = 3.4910
+Epoch  250, loss.full = 3.3538
+Epoch  275, loss.full = 3.0678
+Breaking due to early stopping at epoch 275
+------------------------------
+Current threshold: 0.1
+nmi = 0.10889
+F-1 Score = 0.27113
+F-2 Score = 0.40187
+------------------------------
+Current threshold: 0.2
+nmi = 0.12443
+F-1 Score = 0.30843
+F-2 Score = 0.43542
+------------------------------
+Current threshold: 0.3
+nmi = 0.12899
+F-1 Score = 0.32713
+F-2 Score = 0.45548
+------------------------------
+Current threshold: 0.4
+nmi = 0.13264
+F-1 Score = 0.30918
+F-2 Score = 0.42986
+------------------------------
+Current threshold: 0.5
+nmi = 0.12144
+F-1 Score = 0.33381
+F-2 Score = 0.44815
+------------------------------
+Current threshold: 0.6
+nmi = 0.13648
+F-1 Score = 0.33632
+F-2 Score = 0.43330
+------------------------------
+Current threshold: 0.7
+nmi = 0.13630
+F-1 Score = 0.32365
+F-2 Score = 0.41249
+------------------------------
+Current threshold: 0.8
+nmi = 0.17510
+F-1 Score = 0.32203
+F-2 Score = 0.40002
+------------------------------
+Current threshold: 0.9
+nmi = 0.16232
+F-1 Score = 0.32237
+F-2 Score = 0.38999
+------------------------------
+average nmi:  0.13628763880881553
+average F-1 score:  0.31711593811883393
+average F-2 score:  0.42295257191602054
+------------------------------
+maximum nmi:  0.17510186592224466
+maximum F-1 score:  0.3363226766332357
+maximum F-2 score:  0.4554810145153618
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.008119015901639026
+Std 2:  0.008119015901639026
+Amplifier:  4.4058368559207315
+Next Guess:  1.5597159715971598
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+self.eps 0.08919217091793993
+Epoch    0, loss.full = 0.9341
+Epoch   25, loss.full = 1.0375
+Epoch   50, loss.full = 1.0104
+Epoch   75, loss.full = 1.3370
+Epoch  100, loss.full = 1.2259
+Epoch  125, loss.full = 1.2368
+Epoch  150, loss.full = 0.6450
+Epoch  175, loss.full = 0.8716
+Epoch  200, loss.full = 1.1070
+Epoch  225, loss.full = 1.0243
+Epoch  250, loss.full = 1.1699
+Epoch  275, loss.full = 0.7989
+Epoch  300, loss.full = 0.7430
+Epoch  325, loss.full = 0.6546
+Epoch  350, loss.full = 0.8118
+Epoch  375, loss.full = 0.6960
+Epoch  400, loss.full = 0.6050
+Epoch  425, loss.full = 0.7763
+Epoch  450, loss.full = 0.8352
+Epoch  475, loss.full = 0.8177
+Epoch  500, loss.full = 0.7958
+------------------------------
+Current threshold: 0.1
+nmi = 0.17430
+F-1 Score = 0.33801
+F-2 Score = 0.45306
+------------------------------
+Current threshold: 0.2
+nmi = 0.17066
+F-1 Score = 0.36453
+F-2 Score = 0.49805
+------------------------------
+Current threshold: 0.3
+nmi = 0.16668
+F-1 Score = 0.35801
+F-2 Score = 0.48986
+------------------------------
+Current threshold: 0.4
+nmi = 0.16194
+F-1 Score = 0.36035
+F-2 Score = 0.48015
+------------------------------
+Current threshold: 0.5
+nmi = 0.15790
+F-1 Score = 0.31762
+F-2 Score = 0.41420
+------------------------------
+Current threshold: 0.6
+nmi = 0.15385
+F-1 Score = 0.32280
+F-2 Score = 0.43314
+------------------------------
+Current threshold: 0.7
+nmi = 0.11835
+F-1 Score = 0.32751
+F-2 Score = 0.42660
+------------------------------
+Current threshold: 0.8
+nmi = 0.14179
+F-1 Score = 0.37045
+F-2 Score = 0.46338
+------------------------------
+Current threshold: 0.9
+nmi = 0.09428
+F-1 Score = 0.35123
+F-2 Score = 0.45919
+------------------------------
+average nmi:  0.14885997023256273
+average F-1 score:  0.3456113864856492
+average F-2 score:  0.4575132123048225
+------------------------------
+maximum nmi:  0.17429678638750093
+maximum F-1 score:  0.37044554841252464
+maximum F-2 score:  0.49805249106721217
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.014548330593396204
+Std 2:  0.014548330593396204
+Amplifier:  4.45102369566341
+Next Guess:  0.6223222322232224
+self.eps 0.08919217091793993
+D:\PycharmProjects\Overlapping Community Detection with Graph Neural Networks\nocd\nn\imrpoved_gcn.py:76: RuntimeWarning: divide by zero encountered in true_divide
+  deg_sqrt_inv = 1 / np.sqrt(deg)
+Epoch    0, loss.full = 3.0506
+Epoch   25, loss.full = 1.0729
+Epoch   50, loss.full = 1.0975
+Epoch   75, loss.full = 1.1139
+Epoch  100, loss.full = 0.8741
+Epoch  125, loss.full = 0.5341
+Epoch  150, loss.full = 0.6592
+Epoch  175, loss.full = 0.6344
+Epoch  200, loss.full = 0.5841
+Epoch  225, loss.full = 0.5749
+Epoch  250, loss.full = 0.5444
+Epoch  275, loss.full = 0.5792
+Epoch  300, loss.full = 0.6411
+Epoch  325, loss.full = 0.6543
+Epoch  350, loss.full = 0.5812
+Epoch  375, loss.full = 0.6240
+Epoch  400, loss.full = 0.6040
+Breaking due to early stopping at epoch 400
+------------------------------
+Current threshold: 0.1
+nmi = 0.11968
+F-1 Score = 0.25326
+F-2 Score = 0.35501
+------------------------------
+Current threshold: 0.2
+nmi = 0.11959
+F-1 Score = 0.27836
+F-2 Score = 0.38243
+------------------------------
+Current threshold: 0.3
+nmi = 0.12154
+F-1 Score = 0.27691
+F-2 Score = 0.37861
+------------------------------
+Current threshold: 0.4
+nmi = 0.12359
+F-1 Score = 0.27757
+F-2 Score = 0.38018
+------------------------------
+Current threshold: 0.5
+nmi = 0.12359
+F-1 Score = 0.27757
+F-2 Score = 0.38018
+------------------------------
+Current threshold: 0.6
+nmi = 0.12359
+F-1 Score = 0.27757
+F-2 Score = 0.38018
+------------------------------
+Current threshold: 0.7
+nmi = 0.12359
+F-1 Score = 0.27757
+F-2 Score = 0.38018
+------------------------------
+Current threshold: 0.8
+nmi = 0.12359
+F-1 Score = 0.27757
+F-2 Score = 0.38018
+------------------------------
+Current threshold: 0.9
+nmi = 0.10997
+F-1 Score = 0.30553
+F-2 Score = 0.40690
+------------------------------
+average nmi:  0.12097214795420702
+average F-1 score:  0.27798933073053395
+average F-2 score:  0.3804276821445282
+------------------------------
+maximum nmi:  0.12359211016079527
+maximum F-1 score:  0.30553382860258493
+maximum F-2 score:  0.40689918280716186
+------------------------------
+MAE: 0.08388394139615053
+RMSE: 0.2896272456039841 
+
+Std 1:  0.009531268859203352
+Std 2:  0.009531268859203352
+Amplifier:  4.492454985876405
+Next Guess:  1.7776177617761775
+------------------------------
+---------Final Results--------
+------------------------------
+Final average nmi:  0.1793147392306678
+Final average F-1 score:  0.38817811463183205
+Final average F-2 score:  0.4901933668098224
+------------------------------
+Final maximum nmi:  0.21710660223322517
+Final maximum F-1 score:  0.42744965686142156
+Final maximum F-2 score:  0.5284208290935107
+------------------------------
+Final MAE: 0.08388394139615053
+Final RMSE: 0.2896272456039841 
+
+------------------------------
+-----------Summary------------
+------------------------------
+Time cost in total:  271.9362790584564 s
+Iteration rounds:  14
+Parameter selected:  [array([array([array([1.6515051505150513], dtype=object)], dtype=object)],
+      dtype=object)]
+
+Process finished with exit code 0
